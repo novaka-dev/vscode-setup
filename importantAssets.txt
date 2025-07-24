@@ -1,0 +1,22 @@
+Extension chrome
+1. GoFullPage
+2. Mobile Simulator
+3. Pesticide
+4. Simple Translate
+5. What Fonts
+
+Website React Assets Components
+1. https://reactbits.dev/showcase
+2. https://magicui.design/
+3. https://docs.once-ui.com/get-started
+4. https://motion-primitives.com/
+5. https://ui.aceternity.com/
+6. https://originui.com/
+7. https://next.jqueryscript.net/
+8. https://blocks.mvp-subha.me/
+9. https://animate-ui.com/
+10. https://skiper-ui.com/
+11. https://patterncraft.fun/
+12. https://grubersjoe.github.io/react-github-calendar/#/?user=akbarsyaputra
+13. https://icons8.com/icons/set/spring-boot
+14. https://portfolio.ramx.in/
